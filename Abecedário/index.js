@@ -6,5 +6,5 @@ for (let palavra of palavras) {
     if (primeiraletra !== letra) {
         erros++;
     }
-}
+}   
 console.log(erros);
